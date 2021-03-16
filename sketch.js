@@ -20,7 +20,7 @@ function setup() {
   img =loadImage('Momo.jpg')
   man = new Person(img);
   bgrnd= loadImage("forest.png")
- img2 = loadImage('Watermelon.jpg')
+ img2 = loadImage('Watermelon.jpeg')
   // a = createButton("next mode");
   // a.position(10, 10);
   // a.mousePressed(updatemode);
